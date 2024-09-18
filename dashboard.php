@@ -11,6 +11,10 @@
 				<div class="card">
 					<div class="card-body">
 						<h1><b><i class="far fa-smile-beam"></i></b> Selamat Datang</h1>
+						<hr>
+						<?php 
+						echo decriptData('ZDJsemIyMjc4blUxMjMwMDAwNQ');
+						?>
 					</div>
 				</div>
 			</section>

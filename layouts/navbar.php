@@ -11,7 +11,7 @@
 	<ul class="navbar-nav ml-auto">
 		<!-- Messages Dropdown Menu -->
 		<li class="nav-item dropdown">
-			<a class="nav-link" data-toggle="dropdown" href="logout.php" onclick="return confirm('Apakah anda yakin ingin logout?')">
+			<a class="nav-link" data-toggle="dropdown" href="logout_proses.php" onclick="return confirm('Apakah anda yakin ingin logout?')">
 				<i class="fas fa-sign-out-alt text-danger"></i>
 			</a>
 		</li>
